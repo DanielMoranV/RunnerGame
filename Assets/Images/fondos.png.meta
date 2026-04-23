@@ -1,0 +1,1522 @@
+fileFormatVersion: 2
+guid: 60619b72cd9d64543b053d69b55233e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5684567367530049217
+    second: fondos_0
+  - first:
+      213: 829950534448720600
+    second: fondos_1
+  - first:
+      213: -8642244439771997573
+    second: fondos_2
+  - first:
+      213: -1650285199643839881
+    second: fondos_3
+  - first:
+      213: -852968007718641960
+    second: fondos_4
+  - first:
+      213: 2272998356391995837
+    second: fondos_5
+  - first:
+      213: 2161110809900940767
+    second: fondos_6
+  - first:
+      213: -5091242829627046049
+    second: fondos_7
+  - first:
+      213: -380906268954468096
+    second: fondos_8
+  - first:
+      213: 1660447408659453931
+    second: fondos_9
+  - first:
+      213: -3232246398683312669
+    second: fondos_10
+  - first:
+      213: -5770720292399467711
+    second: fondos_11
+  - first:
+      213: 7070887882163933659
+    second: fondos_12
+  - first:
+      213: -1902360201730196307
+    second: fondos_13
+  - first:
+      213: 3214525045131466989
+    second: fondos_14
+  - first:
+      213: 6421805253445045826
+    second: fondos_15
+  - first:
+      213: -795632781320609070
+    second: fondos_16
+  - first:
+      213: 7068992410223977606
+    second: fondos_17
+  - first:
+      213: 2042151106250053699
+    second: fondos_18
+  - first:
+      213: 3442036752796878483
+    second: fondos_19
+  - first:
+      213: 1887757775746038417
+    second: fondos_20
+  - first:
+      213: -7442563979067661138
+    second: fondos_21
+  - first:
+      213: -5092748202521199937
+    second: fondos_22
+  - first:
+      213: 7915027404057866481
+    second: fondos_23
+  - first:
+      213: 8695250683683532472
+    second: fondos_24
+  - first:
+      213: 5803826015673902894
+    second: fondos_25
+  - first:
+      213: -1583480319843982903
+    second: fondos_26
+  - first:
+      213: -4246264408821547304
+    second: fondos_27
+  - first:
+      213: -7694647055629208973
+    second: fondos_28
+  - first:
+      213: 4858477522501695225
+    second: fondos_29
+  - first:
+      213: 7009119132470179315
+    second: fondos_30
+  - first:
+      213: -8265241124163241523
+    second: fondos_31
+  - first:
+      213: 9043592397776460546
+    second: fondos_32
+  - first:
+      213: 5227970179466105079
+    second: fondos_33
+  - first:
+      213: 824895813047113115
+    second: fondos_34
+  - first:
+      213: -7279683752248833090
+    second: fondos_35
+  - first:
+      213: -7322209314449990881
+    second: fondos_36
+  - first:
+      213: -6799016386228640913
+    second: fondos_37
+  - first:
+      213: 4053303551378907408
+    second: fondos_38
+  - first:
+      213: 6762186493039402562
+    second: fondos_39
+  - first:
+      213: -7258258603492617215
+    second: fondos_40
+  - first:
+      213: -3583614876310433384
+    second: fondos_41
+  - first:
+      213: 2088389624146758750
+    second: fondos_42
+  - first:
+      213: 1431793154397629926
+    second: fondos_43
+  - first:
+      213: -305558716326470372
+    second: fondos_44
+  - first:
+      213: 3260247174421772974
+    second: fondos_45
+  - first:
+      213: -1605604878113066292
+    second: fondos_46
+  - first:
+      213: -1875381281180956228
+    second: fondos_47
+  - first:
+      213: 3587530773178883281
+    second: fondos_48
+  - first:
+      213: -4137144993087987352
+    second: fondos_49
+  - first:
+      213: -3617378390285582379
+    second: fondos_50
+  - first:
+      213: 4869930483956926830
+    second: fondos_51
+  - first:
+      213: -8300915810797067607
+    second: fondos_52
+  - first:
+      213: -8507094611114815381
+    second: fondos_53
+  - first:
+      213: 2894979815950690394
+    second: fondos_54
+  - first:
+      213: 4988834724578321586
+    second: fondos_55
+  - first:
+      213: 1778010106065223757
+    second: fondos_56
+  - first:
+      213: 252523033263379202
+    second: fondos_57
+  - first:
+      213: 7980652582452326780
+    second: fondos_58
+  - first:
+      213: -1152850336281788926
+    second: fondos_59
+  - first:
+      213: 3027364726124925218
+    second: fondos_60
+  - first:
+      213: 8025019695357549720
+    second: fondos_61
+  - first:
+      213: -1472322935126414667
+    second: fondos_62
+  - first:
+      213: 3084887350727482961
+    second: fondos_63
+  - first:
+      213: 4845178633923111550
+    second: fondos_64
+  - first:
+      213: 7707777824880274532
+    second: fondos_65
+  - first:
+      213: 4457826797093759685
+    second: fondos_66
+  - first:
+      213: 5340833413186248199
+    second: fondos_67
+  - first:
+      213: -3738396214358238709
+    second: fondos_68
+  - first:
+      213: 4815184592379109529
+    second: fondos_69
+  - first:
+      213: 7010930307112828737
+    second: fondos_70
+  - first:
+      213: -7941874653121487397
+    second: fondos_71
+  - first:
+      213: -666780662146026474
+    second: fondos_72
+  - first:
+      213: -8377377682981999816
+    second: fondos_73
+  - first:
+      213: -5697506481086509466
+    second: fondos_74
+  - first:
+      213: -2231742850560877853
+    second: fondos_75
+  - first:
+      213: -7457204641124384796
+    second: fondos_76
+  - first:
+      213: 1130885167710915226
+    second: fondos_77
+  - first:
+      213: 2363917253292493702
+    second: fondos_78
+  - first:
+      213: 1987100680441129581
+    second: fondos_79
+  - first:
+      213: 7978420881043464391
+    second: fondos_80
+  - first:
+      213: 5576527886051347151
+    second: fondos_81
+  - first:
+      213: 851690041503714215
+    second: fondos_82
+  - first:
+      213: 3716051449529159671
+    second: fondos_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fondos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 302
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cee76317e3a3ee40800000000000000
+      internalID: 5684567367530049217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 172
+        width: 142
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da26f22d93948b00800000000000000
+      internalID: 829950534448720600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_2
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 172
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a9b497874901880800000000000000
+      internalID: -8642244439771997573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 512
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772f421ca520919e0800000000000000
+      internalID: -1650285199643839881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de582fbd16a924f0800000000000000
+      internalID: -852968007718641960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 689
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9aac756ff4b8f10800000000000000
+      internalID: 2272998356391995837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 154
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddf660e4decdfd10800000000000000
+      internalID: 2161110809900940767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 154
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5743dafe954859b0800000000000000
+      internalID: -5091242829627046049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001ef3a34cfb6baf0800000000000000
+      internalID: -380906268954468096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_9
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 155
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be75d59ee181b0710800000000000000
+      internalID: 1660447408659453931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 152
+        width: 105
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed02fb8601c423d0800000000000000
+      internalID: -3232246398683312669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_11
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 152
+        width: 306
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1433469f7784aefa0800000000000000
+      internalID: -5770720292399467711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_12
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 154
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1defec017d02260800000000000000
+      internalID: 7070887882163933659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_13
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 154
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacf705c9757995e0800000000000000
+      internalID: -1902360201730196307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_14
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 154
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de858ac4f794c9c20800000000000000
+      internalID: 3214525045131466989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 153
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e44549ad5de1950800000000000000
+      internalID: 6421805253445045826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_16
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 156
+        width: 99
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2aab9633855f4f0800000000000000
+      internalID: -795632781320609070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_17
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 152
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684255bd42b1a1260800000000000000
+      internalID: 7068992410223977606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_18
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 152
+        width: 227
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34894b18c9d275c10800000000000000
+      internalID: 2042151106250053699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_19
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 152
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3960c42a03294cf20800000000000000
+      internalID: 3442036752796878483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_20
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 152
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19af25df1b9a23a10800000000000000
+      internalID: 1887757775746038417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 114
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4ed815e73b6b890800000000000000
+      internalID: -7442563979067661138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaf63a0e7ce259b0800000000000000
+      internalID: -5092748202521199937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 77
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0f9560d73d7dd60800000000000000
+      internalID: 7915027404057866481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 77
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beede96d6cbba870800000000000000
+      internalID: 8695250683683532472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 77
+        width: 100
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27e962e2055b8050800000000000000
+      internalID: 5803826015673902894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_26
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 77
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1a0eae909560ae0800000000000000
+      internalID: -1583480319843982903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 78
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8debec1940d3215c0800000000000000
+      internalID: -4246264408821547304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_28
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 72
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3723739554f173590800000000000000
+      internalID: -7694647055629208973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6feedb097cc6340800000000000000
+      internalID: 4858477522501695225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 50
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5774f07b4654160800000000000000
+      internalID: 7009119132470179315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_31
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 50
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9bc4b1df6fb4d80800000000000000
+      internalID: -8265241124163241523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_32
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b93eaee5b418d70800000000000000
+      internalID: 9043592397776460546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 50
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f09963ed2b7d8840800000000000000
+      internalID: 5227970179466105079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 50
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9551691f5e927b00800000000000000
+      internalID: 824895813047113115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb860e523e59fa90800000000000000
+      internalID: -7279683752248833090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 76
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bd6295c69426a90800000000000000
+      internalID: -7322209314449990881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_37
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6328c49e9a05a1a0800000000000000
+      internalID: -6799016386228640913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_38
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011e4caca1a304830800000000000000
+      internalID: 4053303551378907408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2bf66cedeb7b9e0800000000000000
+      internalID: -1605604878113066292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_47
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9cac439ae49f5e0800000000000000
+      internalID: -1875381281180956228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_48
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc1c1c0b3879c130800000000000000
+      internalID: 3587530773178883281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86164be5c88e596c0800000000000000
+      internalID: -4137144993087987352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_50
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df7adc058d7ccdc0800000000000000
+      internalID: -3617378390285582379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_51
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69491129f7759340800000000000000
+      internalID: 4869930483956926830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_52
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2640bdc093dcc80800000000000000
+      internalID: -8300915810797067607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2
+        width: 214
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b609cd1168ab0f980800000000000000
+      internalID: -8507094611114815381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondos_75
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 118
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea1d42a3b14701e0800000000000000
+      internalID: -2231742850560877853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bdceaf425020dfa4ab662f90377b313f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fondos_0: 5684567367530049217
+      fondos_1: 829950534448720600
+      fondos_10: -3232246398683312669
+      fondos_11: -5770720292399467711
+      fondos_12: 7070887882163933659
+      fondos_13: -1902360201730196307
+      fondos_14: 3214525045131466989
+      fondos_15: 6421805253445045826
+      fondos_16: -795632781320609070
+      fondos_17: 7068992410223977606
+      fondos_18: 2042151106250053699
+      fondos_19: 3442036752796878483
+      fondos_2: -8642244439771997573
+      fondos_20: 1887757775746038417
+      fondos_21: -7442563979067661138
+      fondos_22: -5092748202521199937
+      fondos_23: 7915027404057866481
+      fondos_24: 8695250683683532472
+      fondos_25: 5803826015673902894
+      fondos_26: -1583480319843982903
+      fondos_27: -4246264408821547304
+      fondos_28: -7694647055629208973
+      fondos_29: 4858477522501695225
+      fondos_3: -1650285199643839881
+      fondos_30: 7009119132470179315
+      fondos_31: -8265241124163241523
+      fondos_32: 9043592397776460546
+      fondos_33: 5227970179466105079
+      fondos_34: 824895813047113115
+      fondos_35: -7279683752248833090
+      fondos_36: -7322209314449990881
+      fondos_37: -6799016386228640913
+      fondos_38: 4053303551378907408
+      fondos_39: 6762186493039402562
+      fondos_4: -852968007718641960
+      fondos_40: -7258258603492617215
+      fondos_41: -3583614876310433384
+      fondos_42: 2088389624146758750
+      fondos_43: 1431793154397629926
+      fondos_44: -305558716326470372
+      fondos_45: 3260247174421772974
+      fondos_46: -1605604878113066292
+      fondos_47: -1875381281180956228
+      fondos_48: 3587530773178883281
+      fondos_49: -4137144993087987352
+      fondos_5: 2272998356391995837
+      fondos_50: -3617378390285582379
+      fondos_51: 4869930483956926830
+      fondos_52: -8300915810797067607
+      fondos_53: -8507094611114815381
+      fondos_54: 2894979815950690394
+      fondos_55: 4988834724578321586
+      fondos_56: 1778010106065223757
+      fondos_57: 252523033263379202
+      fondos_58: 7980652582452326780
+      fondos_59: -1152850336281788926
+      fondos_6: 2161110809900940767
+      fondos_60: 3027364726124925218
+      fondos_61: 8025019695357549720
+      fondos_62: -1472322935126414667
+      fondos_63: 3084887350727482961
+      fondos_64: 4845178633923111550
+      fondos_65: 7707777824880274532
+      fondos_66: 4457826797093759685
+      fondos_67: 5340833413186248199
+      fondos_68: -3738396214358238709
+      fondos_69: 4815184592379109529
+      fondos_7: -5091242829627046049
+      fondos_70: 7010930307112828737
+      fondos_71: -7941874653121487397
+      fondos_72: -666780662146026474
+      fondos_73: -8377377682981999816
+      fondos_74: -5697506481086509466
+      fondos_75: -2231742850560877853
+      fondos_76: -7457204641124384796
+      fondos_77: 1130885167710915226
+      fondos_78: 2363917253292493702
+      fondos_79: 1987100680441129581
+      fondos_8: -380906268954468096
+      fondos_80: 7978420881043464391
+      fondos_81: 5576527886051347151
+      fondos_82: 851690041503714215
+      fondos_83: 3716051449529159671
+      fondos_9: 1660447408659453931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

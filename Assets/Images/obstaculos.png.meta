@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: 827319b1446d4e54e9bd17f77820c8ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8557579309086435502
+    second: obstaculos_0
+  - first:
+      213: -1594955483228083505
+    second: obstaculos_1
+  - first:
+      213: 8746832158407700598
+    second: obstaculos_2
+  - first:
+      213: -8848809552712142546
+    second: obstaculos_3
+  - first:
+      213: 1573323461593569725
+    second: obstaculos_4
+  - first:
+      213: 1494777408486529906
+    second: obstaculos_5
+  - first:
+      213: -7857017147718215899
+    second: obstaculos_6
+  - first:
+      213: 7309348951602422503
+    second: obstaculos_7
+  - first:
+      213: -3406642548557747399
+    second: obstaculos_8
+  - first:
+      213: 407430587190556559
+    second: obstaculos_9
+  - first:
+      213: 1839861784863254897
+    second: obstaculos_10
+  - first:
+      213: 5591273906239228625
+    second: obstaculos_11
+  - first:
+      213: 5625068146565313988
+    second: obstaculos_12
+  - first:
+      213: 6744457349265218450
+    second: obstaculos_13
+  - first:
+      213: -7638266241408222630
+    second: obstaculos_14
+  - first:
+      213: 86320589579370192
+    second: obstaculos_15
+  - first:
+      213: 1040845907628299626
+    second: obstaculos_16
+  - first:
+      213: 8483319404622793608
+    second: obstaculos_17
+  - first:
+      213: 7340679784217706060
+    second: obstaculos_18
+  - first:
+      213: 96516205352814080
+    second: obstaculos_19
+  - first:
+      213: 1821900311145462841
+    second: obstaculos_20
+  - first:
+      213: -7800521020747040350
+    second: obstaculos_21
+  - first:
+      213: -5522641175357935636
+    second: obstaculos_22
+  - first:
+      213: -5986683618627020670
+    second: obstaculos_23
+  - first:
+      213: 7543228684081151071
+    second: obstaculos_24
+  - first:
+      213: 4603281777139034019
+    second: obstaculos_25
+  - first:
+      213: -5149402673541675215
+    second: obstaculos_26
+  - first:
+      213: -7355649347677124264
+    second: obstaculos_27
+  - first:
+      213: -8722796856684051124
+    second: obstaculos_28
+  - first:
+      213: 3035168818698810616
+    second: obstaculos_29
+  - first:
+      213: -3966036275140490352
+    second: obstaculos_30
+  - first:
+      213: -3471680901458857766
+    second: obstaculos_31
+  - first:
+      213: 1408248088147304974
+    second: obstaculos_32
+  - first:
+      213: -2403245153695504851
+    second: obstaculos_33
+  - first:
+      213: 5299966029771674203
+    second: obstaculos_34
+  - first:
+      213: 6102263042052101469
+    second: obstaculos_35
+  - first:
+      213: -7350059382076938141
+    second: obstaculos_36
+  - first:
+      213: 7818905279032170782
+    second: obstaculos_37
+  - first:
+      213: 3935586063716088941
+    second: obstaculos_38
+  - first:
+      213: -5471821334676326325
+    second: obstaculos_39
+  - first:
+      213: 5285671615877045086
+    second: obstaculos_40
+  - first:
+      213: -7312930693110036189
+    second: obstaculos_41
+  - first:
+      213: -9039058544153997736
+    second: obstaculos_42
+  - first:
+      213: -4494781247274891346
+    second: obstaculos_43
+  - first:
+      213: -7759099233487447331
+    second: obstaculos_44
+  - first:
+      213: -1109663180027740109
+    second: obstaculos_45
+  - first:
+      213: -2586123184918277096
+    second: obstaculos_46
+  - first:
+      213: 4466870915369986643
+    second: obstaculos_47
+  - first:
+      213: 7414394239253329975
+    second: obstaculos_48
+  - first:
+      213: 1580062038700677893
+    second: obstaculos_49
+  - first:
+      213: 2999483161451694133
+    second: obstaculos_50
+  - first:
+      213: -700598169714267376
+    second: obstaculos_51
+  - first:
+      213: -6266738455357759100
+    second: obstaculos_52
+  - first:
+      213: -4008313698299433717
+    second: obstaculos_53
+  - first:
+      213: 5288661174819516950
+    second: obstaculos_54
+  - first:
+      213: -789584188275274549
+    second: obstaculos_55
+  - first:
+      213: -3639435360548842541
+    second: obstaculos_56
+  - first:
+      213: -4039944255476912860
+    second: obstaculos_57
+  - first:
+      213: 2608441134239052380
+    second: obstaculos_58
+  - first:
+      213: -271773207178922382
+    second: obstaculos_59
+  - first:
+      213: -4810831209162291155
+    second: obstaculos_60
+  - first:
+      213: -620165193936609265
+    second: obstaculos_61
+  - first:
+      213: -7202078890807055371
+    second: obstaculos_62
+  - first:
+      213: 8462975444616304278
+    second: obstaculos_63
+  - first:
+      213: 1761592046046273739
+    second: obstaculos_64
+  - first:
+      213: 5926560435337164568
+    second: obstaculos_65
+  - first:
+      213: -6697194828632111602
+    second: obstaculos_66
+  - first:
+      213: -1155268161118067
+    second: obstaculos_67
+  - first:
+      213: 7022668403291343871
+    second: obstaculos_68
+  - first:
+      213: 3634194027418428437
+    second: obstaculos_69
+  - first:
+      213: 8126775456230627217
+    second: obstaculos_70
+  - first:
+      213: -6523279224588396934
+    second: obstaculos_71
+  - first:
+      213: 6035161059939686532
+    second: obstaculos_72
+  - first:
+      213: 2960860158000883643
+    second: obstaculos_73
+  - first:
+      213: -6680974599153377059
+    second: obstaculos_74
+  - first:
+      213: 3797190565246565403
+    second: obstaculos_75
+  - first:
+      213: 7578271629619489615
+    second: obstaculos_76
+  - first:
+      213: -3640109549859409112
+    second: obstaculos_77
+  - first:
+      213: -2165747085589287947
+    second: obstaculos_78
+  - first:
+      213: -9117410260317314127
+    second: obstaculos_79
+  - first:
+      213: 3272799763388068579
+    second: obstaculos_80
+  - first:
+      213: 7408874463306025805
+    second: obstaculos_81
+  - first:
+      213: -4309346941182644314
+    second: obstaculos_82
+  - first:
+      213: 5858504582362591270
+    second: obstaculos_83
+  - first:
+      213: 8495755540570636080
+    second: obstaculos_84
+  - first:
+      213: -149618982344585413
+    second: obstaculos_85
+  - first:
+      213: 7609682989175063319
+    second: obstaculos_86
+  - first:
+      213: -3333073847208449171
+    second: obstaculos_87
+  - first:
+      213: 2593266090087440036
+    second: obstaculos_88
+  - first:
+      213: 3487161684879567534
+    second: obstaculos_89
+  - first:
+      213: 180944067305654490
+    second: obstaculos_90
+  - first:
+      213: 967772240005437260
+    second: obstaculos_91
+  - first:
+      213: 1833257280447064405
+    second: obstaculos_92
+  - first:
+      213: -7341635238920257807
+    second: obstaculos_93
+  - first:
+      213: 454051542827507287
+    second: obstaculos_94
+  - first:
+      213: 7384232820913180594
+    second: obstaculos_95
+  - first:
+      213: -3878423217544259227
+    second: obstaculos_96
+  - first:
+      213: 29015690312593553
+    second: obstaculos_97
+  - first:
+      213: 5658163012532466328
+    second: obstaculos_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: obstaculos_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de3eae6e1ca23100800000000000000
+      internalID: 86320589579370192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstaculos_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 354
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a659a1e96d3d17e00800000000000000
+      internalID: 1040845907628299626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstaculos_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80e2ab2a45ebfff0800000000000000
+      internalID: -1155268161118067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstaculos_68
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 175
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb4a8184b7857160800000000000000
+      internalID: 7022668403291343871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstaculos_69
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 176
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5142f1196304f6230800000000000000
+      internalID: 3634194027418428437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstaculos_70
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 176
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1975dfd483b18c070800000000000000
+      internalID: 8126775456230627217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstaculos_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7619b76b18a875a0800000000000000
+      internalID: -6523279224588396934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstaculos_72
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 176
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48899f3220331c350800000000000000
+      internalID: 6035161059939686532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstaculos_73
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 176
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7ef3b50a6171920800000000000000
+      internalID: 2960860158000883643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstaculos_74
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 176
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd02e08dff86843a0800000000000000
+      internalID: -6680974599153377059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstaculos_75
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 176
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c7cf163b452b430800000000000000
+      internalID: 3797190565246565403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 55b97f216b75b2948bac449ecbf118bc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      obstaculos_0: -8557579309086435502
+      obstaculos_1: -1594955483228083505
+      obstaculos_10: 1839861784863254897
+      obstaculos_11: 5591273906239228625
+      obstaculos_12: 5625068146565313988
+      obstaculos_13: 6744457349265218450
+      obstaculos_14: -7638266241408222630
+      obstaculos_15: 86320589579370192
+      obstaculos_16: 1040845907628299626
+      obstaculos_17: 8483319404622793608
+      obstaculos_18: 7340679784217706060
+      obstaculos_19: 96516205352814080
+      obstaculos_2: 8746832158407700598
+      obstaculos_20: 1821900311145462841
+      obstaculos_21: -7800521020747040350
+      obstaculos_22: -5522641175357935636
+      obstaculos_23: -5986683618627020670
+      obstaculos_24: 7543228684081151071
+      obstaculos_25: 4603281777139034019
+      obstaculos_26: -5149402673541675215
+      obstaculos_27: -7355649347677124264
+      obstaculos_28: -8722796856684051124
+      obstaculos_29: 3035168818698810616
+      obstaculos_3: -8848809552712142546
+      obstaculos_30: -3966036275140490352
+      obstaculos_31: -3471680901458857766
+      obstaculos_32: 1408248088147304974
+      obstaculos_33: -2403245153695504851
+      obstaculos_34: 5299966029771674203
+      obstaculos_35: 6102263042052101469
+      obstaculos_36: -7350059382076938141
+      obstaculos_37: 7818905279032170782
+      obstaculos_38: 3935586063716088941
+      obstaculos_39: -5471821334676326325
+      obstaculos_4: 1573323461593569725
+      obstaculos_40: 5285671615877045086
+      obstaculos_41: -7312930693110036189
+      obstaculos_42: -9039058544153997736
+      obstaculos_43: -4494781247274891346
+      obstaculos_44: -7759099233487447331
+      obstaculos_45: -1109663180027740109
+      obstaculos_46: -2586123184918277096
+      obstaculos_47: 4466870915369986643
+      obstaculos_48: 7414394239253329975
+      obstaculos_49: 1580062038700677893
+      obstaculos_5: 1494777408486529906
+      obstaculos_50: 2999483161451694133
+      obstaculos_51: -700598169714267376
+      obstaculos_52: -6266738455357759100
+      obstaculos_53: -4008313698299433717
+      obstaculos_54: 5288661174819516950
+      obstaculos_55: -789584188275274549
+      obstaculos_56: -3639435360548842541
+      obstaculos_57: -4039944255476912860
+      obstaculos_58: 2608441134239052380
+      obstaculos_59: -271773207178922382
+      obstaculos_6: -7857017147718215899
+      obstaculos_60: -4810831209162291155
+      obstaculos_61: -620165193936609265
+      obstaculos_62: -7202078890807055371
+      obstaculos_63: 8462975444616304278
+      obstaculos_64: 1761592046046273739
+      obstaculos_65: 5926560435337164568
+      obstaculos_66: -6697194828632111602
+      obstaculos_67: -1155268161118067
+      obstaculos_68: 7022668403291343871
+      obstaculos_69: 3634194027418428437
+      obstaculos_7: 7309348951602422503
+      obstaculos_70: 8126775456230627217
+      obstaculos_71: -6523279224588396934
+      obstaculos_72: 6035161059939686532
+      obstaculos_73: 2960860158000883643
+      obstaculos_74: -6680974599153377059
+      obstaculos_75: 3797190565246565403
+      obstaculos_76: 7578271629619489615
+      obstaculos_77: -3640109549859409112
+      obstaculos_78: -2165747085589287947
+      obstaculos_79: -9117410260317314127
+      obstaculos_8: -3406642548557747399
+      obstaculos_80: 3272799763388068579
+      obstaculos_81: 7408874463306025805
+      obstaculos_82: -4309346941182644314
+      obstaculos_83: 5858504582362591270
+      obstaculos_84: 8495755540570636080
+      obstaculos_85: -149618982344585413
+      obstaculos_86: 7609682989175063319
+      obstaculos_87: -3333073847208449171
+      obstaculos_88: 2593266090087440036
+      obstaculos_89: 3487161684879567534
+      obstaculos_9: 407430587190556559
+      obstaculos_90: 180944067305654490
+      obstaculos_91: 967772240005437260
+      obstaculos_92: 1833257280447064405
+      obstaculos_93: -7341635238920257807
+      obstaculos_94: 454051542827507287
+      obstaculos_95: 7384232820913180594
+      obstaculos_96: -3878423217544259227
+      obstaculos_97: 29015690312593553
+      obstaculos_98: 5658163012532466328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
